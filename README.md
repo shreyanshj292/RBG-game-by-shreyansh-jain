@@ -1,1 +1,1 @@
-# RBG-game-by-shreyansh-jain
+# ColorGame
